@@ -73,7 +73,7 @@ function App() {
   }, []);
 
   return (
-    <>
+    <div className="container">
       <canvas id="canvas"></canvas>
       <div className="mainContent">
         <h2 className="neonText">MI JUGUETE FAVORITO</h2>
@@ -82,7 +82,7 @@ function App() {
 
       <div className="backgroundGradientPink"></div>
       <div className="backgroundGradientBlue"></div>
-    </>
+    </div>
   )
 }
 
