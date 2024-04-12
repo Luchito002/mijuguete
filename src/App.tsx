@@ -42,21 +42,21 @@ function App() {
       model = gltf.scene;
       model.scale.set(0.01, 0.01, 0.01);
       model.rotation.y = Math.PI / 10;
-      
+
       scene.add(model);
     });
 
     //アニメーション
     const tick = () => {
       if (model && camera) {
-        const speed = 0.0001; 
+        const speed = 0.0001;
         const radius = 5;
         const angle = Date.now() * speed;
         camera.position.x = Math.sin(angle) * radius;
         camera.position.z = Math.cos(angle) * radius;
         camera.lookAt(model.position);
       }
-      
+
       renderer.render(scene, camera);
       requestAnimationFrame(tick);
     };
