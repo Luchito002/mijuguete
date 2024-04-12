@@ -1,0 +1,882 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4724,
+      "max": [
+        83.11427307128906,
+        93.38151550292969,
+        163.28067016601563
+      ],
+      "min": [
+        -78.37735748291016,
+        -97.03656768798828,
+        -1.381423830986023
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 56688,
+      "componentType": 5126,
+      "count": 4724,
+      "max": [
+        0.9999474287033081,
+        0.9997445940971375,
+        0.999143660068512
+      ],
+      "min": [
+        -0.9999613165855408,
+        -0.9965582489967346,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4724,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.02626010589301586,
+        -0.00040419865399599075
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 7014,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 113376,
+      "componentType": 5126,
+      "count": 798,
+      "max": [
+        77.02693176269531,
+        85.79611206054688,
+        157.06005859375
+      ],
+      "min": [
+        -47.57103729248047,
+        -88.29000854492188,
+        44.18558883666992
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 122952,
+      "componentType": 5126,
+      "count": 798,
+      "max": [
+        0.9975398778915405,
+        0.9870021939277649,
+        0.9846242070198059
+      ],
+      "min": [
+        -0.9944347143173218,
+        -0.9440715312957764,
+        -0.7880821824073792
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 37792,
+      "componentType": 5126,
+      "count": 798,
+      "max": [
+        1.069905161857605,
+        1.0786993503570557
+      ],
+      "min": [
+        -0.0810246467590332,
+        -0.06389367580413818
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 28056,
+      "componentType": 5125,
+      "count": 1200,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 132528,
+      "componentType": 5126,
+      "count": 160,
+      "max": [
+        166.84881591796875,
+        123.3765640258789,
+        151.50900268554688
+      ],
+      "min": [
+        -154.62371826171875,
+        -62.800655364990234,
+        51.74005889892578
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 134448,
+      "componentType": 5126,
+      "count": 160,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.8106889724731445,
+        -0.44963812828063965
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 44176,
+      "componentType": 5126,
+      "count": 160,
+      "max": [
+        0.9764565825462341,
+        0.6833816170692444
+      ],
+      "min": [
+        0.32250434160232544,
+        0.029429251328110695
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 32856,
+      "componentType": 5125,
+      "count": 312,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 136368,
+      "componentType": 5126,
+      "count": 3603,
+      "max": [
+        225.98768615722656,
+        113.292724609375,
+        457.2389221191406
+      ],
+      "min": [
+        -104.80430603027344,
+        -422.7921142578125,
+        0.0017022170359268785
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 179604,
+      "componentType": 5126,
+      "count": 3603,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 45456,
+      "componentType": 5126,
+      "count": 3603,
+      "max": [
+        0.8750099539756775,
+        0.9678515195846558
+      ],
+      "min": [
+        0.053580641746520996,
+        0.34559494256973267
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 34104,
+      "componentType": 5125,
+      "count": 6426,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 222840,
+      "componentType": 5126,
+      "count": 55,
+      "max": [
+        32.20973205566406,
+        33.867313385009766,
+        33.867313385009766
+      ],
+      "min": [
+        -32.2097282409668,
+        -33.867313385009766,
+        -33.867313385009766
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 223500,
+      "componentType": 5126,
+      "count": 55,
+      "max": [
+        0.9510566592216492,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9510566592216492,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 74280,
+      "componentType": 5126,
+      "count": 55,
+      "max": [
+        0.949999988079071,
+        1.0
+      ],
+      "min": [
+        -0.20000004768371582,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 59808,
+      "componentType": 5125,
+      "count": 240,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 224160,
+      "componentType": 5126,
+      "count": 5940,
+      "max": [
+        242.39918518066406,
+        540.1327514648438,
+        366.72576904296875
+      ],
+      "min": [
+        -185.69332885742188,
+        -70.14324188232422,
+        -70.14324188232422
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 295440,
+      "componentType": 5126,
+      "count": 5940,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 74720,
+      "componentType": 5126,
+      "count": 5940,
+      "max": [
+        0.9895517826080322,
+        0.6203809976577759
+      ],
+      "min": [
+        -2.7762148135934694e-10,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 60768,
+      "componentType": 5125,
+      "count": 8478,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 366720,
+      "componentType": 5126,
+      "count": 156,
+      "max": [
+        18.903581619262695,
+        289.6426696777344,
+        145.20913696289063
+      ],
+      "min": [
+        -18.903579711914063,
+        -19.876399993896484,
+        -19.876399993896484
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 368592,
+      "componentType": 5126,
+      "count": 156,
+      "max": [
+        0.9510570168495178,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9510570168495178,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 122240,
+      "componentType": 5126,
+      "count": 156,
+      "max": [
+        0.4729335308074951,
+        0.3657432496547699
+      ],
+      "min": [
+        0.38554084300994873,
+        0.05109916254878044
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 94680,
+      "componentType": 5125,
+      "count": 576,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Karl (https://sketchfab.com/PolyJem)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/lowpoly-godzilla-kaiju-challenge-397b77f346c248edbbd50f2ffe8e1bfb",
+      "title": "LowPoly Godzilla - Kaiju Challenge."
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 96984,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 123488,
+      "byteOffset": 96984,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 370464,
+      "byteOffset": 220472,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 590936,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/Godzilla_and_city_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Godzilla_and_city",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.4457510674838365,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Emmissive_2",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Opacity",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          0.4455626896254005
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.0075011147111073845,
+        0.4426864911974878,
+        1.0
+      ],
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Emmissive",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          0.5732463260553661
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Box039_Godzilla and city_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Box039_Emmissive 2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Box040_Opacity_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Box041_Godzilla and city_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "GeoSphere003_Emmissive_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "GeoSphere006_Emmissive_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "GeoSphere006_Emmissive 2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "009a36cc187444b98d99fc60f207adca.fbx"
+    },
+    {
+      "children": [
+        3,
+        7,
+        9,
+        11,
+        13
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.3786929845809937,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Box039"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        30.162187576293945,
+        -17.363258361816406,
+        -0.09768891334533691,
+        1.0
+      ],
+      "name": "Object_4"
+    },
+    {
+      "mesh": 0,
+      "name": "Box039_Godzilla and city_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Box039_Emmissive 2_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        -2.9238357543945313,
+        -87.56513977050781,
+        41.00126647949219,
+        1.0
+      ],
+      "name": "Box040"
+    },
+    {
+      "mesh": 2,
+      "name": "Box040_Opacity_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        -52.742637634277344,
+        -89.01126098632813,
+        33.469207763671875,
+        1.0
+      ],
+      "name": "Box041"
+    },
+    {
+      "mesh": 3,
+      "name": "Box041_Godzilla and city_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        0.30190300941467285,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        6.703593445115904e-17,
+        -0.30190300941467285,
+        0.0,
+        0.0,
+        0.30190300941467285,
+        6.703593445115904e-17,
+        0.0,
+        -1.2454795837402344,
+        141.15377807617188,
+        106.7493896484375,
+        1.0
+      ],
+      "name": "GeoSphere003"
+    },
+    {
+      "mesh": 4,
+      "name": "GeoSphere003_Emmissive_0"
+    },
+    {
+      "children": [
+        14,
+        15
+      ],
+      "matrix": [
+        0.7524740099906921,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.670827942647373e-16,
+        -0.7524740099906921,
+        0.0,
+        0.0,
+        0.7524740099906921,
+        1.670827942647373e-16,
+        0.0,
+        2.087677001953125,
+        38.252471923828125,
+        320.74322509765625,
+        1.0
+      ],
+      "name": "GeoSphere006"
+    },
+    {
+      "mesh": 5,
+      "name": "GeoSphere006_Emmissive_0"
+    },
+    {
+      "mesh": 6,
+      "name": "GeoSphere006_Emmissive 2_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
